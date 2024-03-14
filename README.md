@@ -19,7 +19,14 @@ These projects were implemented with CUDA (TP0, TP1, TP2 and TP3), in C++ (TP0, 
 - Arthur COELHO RUBACK:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arthur-ruback)
 
+- Juan Diego RAMIREZ:
+    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/juaandi)
+
+- Julien CALZAS
+
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-I would like to thank our professors Mrs. Sylvie Le Hégarat-Mascle and Mr. Emanuel Aldea for the knowledge taught in course at [Université Paris Saclay](https://www.universite-paris-saclay.fr/).
+
+
+I would like to thank our professors Mr. Nicolas Gac and Mr. Mickael Seznec for the knowledge taught in course at [Université Paris Saclay](https://www.universite-paris-saclay.fr/).

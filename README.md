@@ -4,14 +4,15 @@ GPU Supercomputing Course
 ## 📋 Description
 TPs code implemented during the course:
 - TP0: Matrix multiplication
-- TP1: Classification by data fusion based on belief functions
-- TP2: Data fusion in semantic segmentation
-- TP3: Kalman filtering data fusion
-- TP4: Supervised-learning fusion techniques
+- TP1: Image thresholding
+- TP2: Parallel Reduction
+- TP3: Computer vision
+- TP4: Quantization
+- TP5: LLM Quantization with AWQ
 
 ## 🛠️ Software used
 
-These projects were implemented in MATLAB and Jupyter Notebook (Python).
+These projects were implemented with CUDA (TP0, TP1, TP2 and TP3), in C++ (TP0, TP1, TP2 and TP3), in MATLAB (TP1) and Jupyter Notebook Python (TP4 and TP5).
 
 ## ✒️ Authors
 
